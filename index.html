@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<link rel="stylesheet" href="style.css">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>정재성 B모듈</title>
+	<script src="jquery-3.4.1.min.js"></script>
+	<script src="jquery-ui.min.js"></script>
+	<script src="app.js"></script>
+</head>
+<body>
+
+	<div id="canvas-popup">
+		<div class="canvas-popup-times">
+			<i class="fa fa-times"></i>
+		</div>
+		<div class="div-wrapper"></div>
+	</div>
+	
+	<div id="pc-popup">
+		<div class="div-wrapper">
+			<div class="pc-box">
+				<h1 class="pc-title">PURCHASE</h1>
+				<div class="input-box">
+					<label for="pc-user">구매자 이름</label>	
+					<input type="text" id="pc-user" placeholder="NAME">
+				</div>
+				<div class="input-box">
+					<label for="pc-address">주소</label>	
+					<input type="text" id="pc-address" placeholder="ADDRESS">
+				</div>
+				<div class="pc-button-box">
+					<button class="pc-close">
+						취소
+					</button>
+					<button class="pc-pc">
+						구매 완료
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<header>
+		<div class="logo">로고</div>
+		<nav>
+			<ul class="desktop">
+				<li class="active"><a href="#">홈</a></li>
+				<li><a href="#">온라인 집들이</a></li>
+				<li><a href="#">스토어</a></li>
+				<li><a href="#">전문가</a></li>
+				<li><a href="#">시공 견적</a></li>
+			</ul>
+		</nav>
+		<div class="user-ui">
+			<div class="user-ui-container">
+				<button class="user-login">LOG IN</button>
+				<button class="user-join">SIGN UP</button>
+			</div>
+		</div>
+	</header>
+
+	<section id="screen">
+		<div class="screen-container">
+			<div class="screen-left">
+				<div class="search-box">
+					<div class="search-btn">
+						<i class="fa fa-search"></i>
+					</div>
+					<input type="text" id="search-input">
+				</div>
+
+				<div class="item-list">
+					<!-- <div class="item">
+
+						<span class="item-brand">
+							어라운드(A;ROUND)
+						</span>
+						<div class="item-box">
+							<img src="product_1.jpg" alt="product1 img" title="상품 이미지1"
+							>
+							<p class="item-name">
+								어라운드(A;ROUND)
+							</p>
+							<p class="item-price">
+								19,000,000원
+							</p>
+						</div>
+					</div> -->
+				</div>
+
+				<div class="basket">이곳에 상품을 넣어주세요.</div>
+			</div>
+
+			<div class="screen-right">
+				<div class="basket-item-list">
+					<!-- <li class="basket-item">
+						<img src="product_1.jpg" alt="product1 img" title="상품이미지 1">
+						<div class="basket-item-text">
+							<p class="basket-item-brand">		어라운드(A;ROUND)
+							</p>
+							<p class="basket-item-name">
+								어라운드(A;ROUND)
+							</p>
+							<p class="basket-item-price">
+								19,900원
+							</p>
+						</div>
+						<div class="basket-item-cnt_total">
+							<div class="basket-item-cnt">
+								<button>
+									<i class="fa fa-minus"></i>
+								</button>
+								<span>2</span>
+								<button>
+									<i class="fa fa-plus"></i>
+								</button>
+							</div>
+
+							<div class="basket-item-total">
+								39,800원
+							</div>
+						</div>
+
+						<div class="basket-item-times">
+							<i class="fa fa-times"></i>
+						</div>
+					</li> -->					
+				</div>
+
+				<div class="screen-right-bottom">
+					<p class="basket-total">총 합계 : 0원</p>
+					<button id="buy">구매</button>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<footer>
+		Copyright (C) 2020 by MyHome Inc All Rights Reserved.
+		<!-- 카피라이트 텍스트 -->
+	</footer>
+</body>
+</html>

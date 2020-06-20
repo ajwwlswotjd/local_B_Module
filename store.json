@@ -1,0 +1,121 @@
+[{
+    "id": 1,
+    "photo": "product_1.jpg",
+    "brand": "마틸라",
+    "product_name": "마틸라",
+    "price": "17,100"
+}, {
+    "id": 2,
+    "photo": "product_2.jpg",
+    "brand": "어라운드(A;ROUND)",
+    "product_name": "어라운드(A;ROUND)",
+    "price": "19,900"
+}, {
+    "id": 3,
+    "photo": "product_3.jpg",
+    "brand": "누비지오",
+    "product_name": "누비지오",
+    "price": "12,900"
+}, {
+    "id": 4,
+    "photo": "product_4.jpg",
+    "brand": "지누스",
+    "product_name": "지누스",
+    "price": "139,000"
+}, {
+    "id": 5,
+    "photo": "product_5.jpg",
+    "brand": "히읗",
+    "product_name": "히읗",
+    "price": "9,800"
+}, {
+    "id": 6,
+    "photo": "product_6.jpg",
+    "brand": "플라팜",
+    "product_name": "플라팜",
+    "price": "19,900"
+}, {
+    "id": 7,
+    "photo": "product_7.jpg",
+    "brand": "룸앤홈",
+    "product_name": "룸앤홈",
+    "price": "15,900"
+}, {
+    "id": 8,
+    "photo": "product_8.jpg",
+    "brand": "미즌하임",
+    "product_name": "미즌하임",
+    "price": "59,900"
+}, {
+    "id": 9,
+    "photo": "product_9.jpg",
+    "brand": "우디크",
+    "product_name": "우디크",
+    "price": "1,380,000"
+}, {
+    "id": 10,
+    "photo": "product_10.jpg",
+    "brand": "가담다",
+    "product_name": "가담다",
+    "price": "26,900"
+}, {
+    "id": 11,
+    "photo": "product_11.jpg",
+    "brand": "창신리빙",
+    "product_name": "창신리빙",
+    "price": "9,900"
+}, {
+    "id": 12,
+    "photo": "product_12.jpg",
+    "brand": "레브",
+    "product_name": "레브",
+    "price": "65,000"
+}, {
+    "id": 13,
+    "photo": "product_13.jpg",
+    "brand": "타카타카",
+    "product_name": "타카타카",
+    "price": "24,900"
+}, {
+    "id": 14,
+    "photo": "product_14.jpg",
+    "brand": "더블유드레스룸",
+    "product_name": "더블유드레스룸",
+    "price": "16,900"
+}, {
+    "id": 15,
+    "photo": "product_15.jpg",
+    "brand": "레이디가구",
+    "product_name": "레이디가구",
+    "price": "49,900"
+}, {
+    "id": 16,
+    "photo": "product_16.jpg",
+    "brand": "레이디가구",
+    "product_name": "레이디가구",
+    "price": "139,000"
+}, {
+    "id": 17,
+    "photo": "product_17.jpg",
+    "brand": "아이코닉",
+    "product_name": "아이코닉",
+    "price": "15,300"
+}, {
+    "id": 18,
+    "photo": "product_18.jpg",
+    "brand": "로포텐",
+    "product_name": "로포텐",
+    "price": "218,000"
+}, {
+    "id": 19,
+    "photo": "product_19.jpg",
+    "brand": "락앤락",
+    "product_name": "락앤락",
+    "price": "11,600"
+}, {
+    "id": 20,
+    "photo": "product_20.jpg",
+    "brand": "세븐펫",
+    "product_name": "세븐펫",
+    "price": "15,900"
+}]
